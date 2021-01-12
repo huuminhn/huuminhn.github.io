@@ -4,7 +4,7 @@
 
 ### Personal Projects 
 
-[Testing ](/sample_page)
+[Credit Fraud in R](/https://github.com/huuminhn/Credit_Fraud_R)
 <img src="Credit_fraud.jpg?raw=true"/>
 
 ---
