@@ -5,7 +5,7 @@
 ### Personal Projects 
 
 [Testing ](/sample_page)
-<img src="dummy_thumbnail.jpg?raw=true"/>
+<img src="Credit_fraud.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
