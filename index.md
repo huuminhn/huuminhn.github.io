@@ -4,7 +4,7 @@
 
 ### Personal Projects 
 
-[Credit Fraud in R](/https://github.com/huuminhn/Capstone_Project/)
+[Credit Fraud in R](/github.com/huuminhn/Capstone_Project/)
 <img src="Credit_fraud.jpg?raw=true"/>
 
 ---
