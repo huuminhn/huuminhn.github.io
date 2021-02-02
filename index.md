@@ -35,7 +35,7 @@ Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
 
 ---
 ### [Passenger Choice Behaviour](https://github.com/huuminhn/Passenger_Choice_Behaviour)
-<img src="images/Airports.png?raw=true"/>
+<img src="Airports.png?raw=true"/>
 
 ---
 [Project 3 Title](http://www.google.com/)
