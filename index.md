@@ -34,8 +34,8 @@ Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
 (Total absolute error of model) / (Total absolute error of Naive Forecasts)  
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Passenger Choice Behaviour](https://github.com/huuminhn/Passenger_Choice_Behaviour)
+<img src="images/Airports.png?raw=true"/>
 
 ---
 [Project 3 Title](http://www.google.com/)
