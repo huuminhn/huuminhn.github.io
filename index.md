@@ -4,34 +4,34 @@
 
 ### Python
 
-[Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)
-**Purpose of this project is Prediction:**
-Apply booking pattern estimated from training data into validation data  
+[Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
+**Purpose of this project is Prediction:**  
+Apply booking pattern estimated from training data into validation data.      
 Compute final demand forecasts for 7 departure dates and days.  
 
-**Data Description:**  
-*Three variables:*
-Departure date
-Booking date
-Cumulative bookings
+**Data Description:**    
+*Three variables:*  
+Departure date  
+Booking date  
+Cumulative bookings  
 
-*Training Data*
-84 departure dates
-61 days prior (days prior=0,1,…,60)
+*Training Data*  
+84 departure dates  
+61 days prior (days prior=0,1,…,60)  
 
-*Validation Data*
-7 departure dates (7/25~7/31)
-29 days prior (days prior=0,1,…,28)
+*Validation Data*  
+7 departure dates (7/25~7/31)  
+29 days prior (days prior=0,1,…,28)  
 
-**Modelling ( Naïve forecast):**  
-Additive model
-Forecast = Forecasts for remaining demand + on-the-book
+**Modelling ( Naïve forecast):**    
+Additive model:  
+Forecast = Forecasts for remaining demand + on-the-book  
 
-Multiplicative Model
-Forecast = on-the-book/(historical booking rate for given days prior)
+Multiplicative Model:  
+Forecast = on-the-book/(historical booking rate for given days prior)  
 
-Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
-(Total absolute error of model) / (Total absolute error of Naive Forecasts)
+Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:  
+(Total absolute error of model) / (Total absolute error of Naive Forecasts)  
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
