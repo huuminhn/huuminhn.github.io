@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Python
+## Python
 
-[Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
+###[Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
 **Purpose of this project is Prediction:**  
 Apply booking pattern estimated from training data into validation data.      
 Compute final demand forecasts for 7 departure dates and days.  
