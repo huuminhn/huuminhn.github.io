@@ -3,6 +3,7 @@
 ---
 
 ## Python
+--- 
 
 ### [Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
 **Purpose of this project is Prediction:**  
@@ -52,6 +53,10 @@ Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
 - [Project 5 Title](http://example.com/)
 
 ---
+## R
+---
+
+### [Credit Card Fraud](https://github.com/huuminhn/Credit_Fraud_R)
 
 
 
