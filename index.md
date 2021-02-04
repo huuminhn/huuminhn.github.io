@@ -61,15 +61,15 @@ Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
 Predict any credit fraudulent based on each transaction characteristics.
 This including but not limited to the information of the customers.
 
-**Model Building**: 
+**Model Building**:   
 *Logistic Regression*: Variable selection using backward method. The ROC curve can be illustrated as:  
-<img src="Rplot_ROC.png?raw=true"/>
+<img src="Rplot_ROC.png?raw=true"/>  
 *Decision Tree*: The tree model can be illustrated as:
 <img src="Rplot_Tree.png?raw=true"/>
 
 **Key Findings**:  
 The confusion matrix of both models were similar.  
-Decision Tree perform *slightly better* than Logistic Regression Model, at 99.906% and 99.9% respectively.
+Decision Tree perform *slightly better* than Logistic Regression Model, at 99.906% and 99.9% respectively.  
 However, this is an *insignificant* difference between the two.
 
 ---
