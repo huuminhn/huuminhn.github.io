@@ -63,7 +63,8 @@ This including but not limited to the information of the customers.
 
 **Model Building**:   
 *Logistic Regression*: Variable selection using backward method. The ROC curve can be illustrated as:  
-<img src="Rplot_ROC.png?raw=true"/>  
+<img src="Rplot_ROC.png?raw=true"/>
+
 *Decision Tree*: The tree model can be illustrated as:
 <img src="Rplot_Tree.png?raw=true"/>
 
