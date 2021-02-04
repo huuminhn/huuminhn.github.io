@@ -74,5 +74,12 @@ Decision Tree perform *slightly better* than Logistic Regression Model, at 99.90
 However, this is an *insignificant* difference between the two.
 
 ---
+
+## SQL Database:
+
+### Database Design: A Flower Shop Project
+**Description**: This is a team project that design a database for a local flower store to optimize the business operation. The process involve data entry, ETL and applying queries as demanded. The data has to be inputted manually by the team members, then create 12 SQL queries to match with the demand of the flower botique owners, and they can be found in my github page.  
+The ER diagram of the flower shop illustrated through **MySQL Workbench**:  
+<img src="Flower_ER.png?raw=true"/>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
