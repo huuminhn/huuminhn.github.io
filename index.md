@@ -4,6 +4,7 @@
 ## Tableau Visualization: 
 
 Video Game Production and Consumption: Japan vs. North America  
+Interactive Dashboard on Tableau Public:
 https://public.tableau.com/profile/minh.nguyen1290#!/vizhome/Video_Game_Sales_16081465148140/Dashboard1
 
 <img src="VideoGame.png?raw=true"/>
