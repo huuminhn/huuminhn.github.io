@@ -44,20 +44,6 @@ Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
 <img src="Airports.png?raw=true"/>
 
 ---
-[Project 3 Title](http://www.google.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](https://github.com/huuminhn/Credit_Fraud_R)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 ## R
 ---
 
