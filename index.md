@@ -9,6 +9,15 @@
 
 ## Python
 --- 
+### [Netflix Movies Recommendation](https://github.com/huuminhn/Netflix_Visualization_Recommendation)  
+The main goal of this project is to transform a meaningful story through visualizations and build a recommendation sytstem for users based on
+the similarity of the movies preferences. The first part of the project is to build charts and graphs to illustrate the trend in movies and TV shows
+consumption, meanwhile the second part is to use the content-based approach to build a recommendation algorithim. Please visit my GitHub for the 
+outcome of the recommendation system, and the visualization can be demonstrated as below:  
+**EDA and Storytelling via Visualization:**  
+<img src="combine_images.png?raw=true"/>  
+<img src="combine_images_2.png?raw=true"/>  
+
 
 ### [Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
 **Purpose of this project is Prediction:**  
@@ -40,10 +49,6 @@ Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:
 (Total absolute error of model) / (Total absolute error of Naive Forecasts)  
 
 ---
-### [Passenger Choice Behaviour](https://github.com/huuminhn/Passenger_Choice_Behaviour)
-<img src="Airports.png?raw=true"/>
-
----
 ## R
 ---
 
@@ -72,5 +77,5 @@ However, this is an *insignificant* difference between the two.
 **Description**: This is a team project that design a database for a local flower store to optimize the business operation. The process involve data entry, ETL and applying queries as demanded. The data has to be inputted manually by the team members, then create 12 SQL queries to match with the demand of the flower botique owners, and they can be found in my github page, along with a bigger version of the ER diagram below.  
 The ER diagram of the flower shop illustrated through **MySQL Workbench**:  
 <img src="Flower_ER.png?raw=true"/>
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">
 <!-- Remove above link if you don't want to attibute -->
