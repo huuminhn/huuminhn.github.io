@@ -15,8 +15,8 @@ the similarity of the movies preferences. The first part of the project is to bu
 consumption, meanwhile the second part is to use the content-based approach to build a recommendation algorithim. Please visit my GitHub for the 
 outcome of the recommendation system, and the visualization can be demonstrated as below:  
 **EDA and Storytelling via Visualization:**  
-<img src="combine_images.png?raw=true"/>  
-<img src="combine_images_2.png?raw=true"/>  
+<img src="combine_images.jpg?raw=true"/>  
+<img src="combine_images_2.jpg?raw=true"/>  
 
 
 ### [Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
