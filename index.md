@@ -14,7 +14,7 @@ The main goal of this project is to transform a meaningful story through visuali
 the similarity of the movies preferences (contet-based).     
 The first part of the project is to build charts and graphs to illustrate the trend in movies and TV shows
 consumption, meanwhile the second part is to use the content-based approach to build a recommendation algorithim. *Please visit my GitHub for the 
-outcome of the recommendation system.*
+outcome of the recommendation system.*  
 **EDA and Storytelling via Visualization:**  
 <img src="Netflix_Charts.jpg?raw=true"/>  
 
