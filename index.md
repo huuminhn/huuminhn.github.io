@@ -7,52 +7,33 @@
 
 <img src="VideoGame_crop.png?raw=true"/>
 
+---
 ## Python
---- 
-### [Netflix Movies Recommendation](https://github.com/huuminhn/Netflix_Visualization_Recommendation)  
+
+
+### 1. [Amazon Purchase Prediction](https://github.com/huuminhn/Amazon_Purchase_Prediction)  
+This is a academic project with the aim of predicting the potential customers and their demographic characteristics.
+
+### 2. [Capstone Project: Forecasting Defendant Failure to Appear](https://github.com/huuminhn/Capstone_Project)  
+This is a team project that research on Failure to Appear rate of defendants and time to disposition of a case in a hearing court.  
+
+### 3. [Netflix Movies Recommendation](https://github.com/huuminhn/Netflix_Visualization_Recommendation)  
 The main goal of this project is to transform a meaningful story through visualizations and build a recommendation sytstem for users based on
-the similarity of the movies preferences (contet-based).     
-The first part of the project is to build charts and graphs to illustrate the trend in movies and TV shows
-consumption, meanwhile the second part is to use the content-based approach to build a recommendation algorithim. *Please visit my GitHub for the 
-outcome of the recommendation system.*  
+the similarity of the movies preferences (contet-based). *Please visit my GitHub for the outcome of the recommendation system.*    
 **EDA and Storytelling via Visualization:**  
 <img src="Netflix_Charts.jpg?raw=true"/>  
 
 
-### [Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
+### 4. [Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
 **Purpose of this project is Prediction:**  
 Apply booking pattern estimated from training data into validation data.      
 Compute final demand forecasts for 7 departure dates and days.  
 
-**Data Description:**    
-*Three variables:*  
-Departure date  
-Booking date  
-Cumulative bookings  
-
-*Training Data*  
-84 departure dates  
-61 days prior (days prior=0,1,…,60)  
-
-*Validation Data*  
-7 departure dates (7/25~7/31)  
-29 days prior (days prior=0,1,…,28)  
-
-**Modelling ( Naïve forecast):**    
-Additive model:  
-Forecast = Forecasts for remaining demand + on-the-book  
-
-Multiplicative Model:  
-Forecast = on-the-book/(historical booking rate for given days prior)  
-
-Model Evaluation based on *Mean Absolute Scaled Error (MASE)*:  
-(Total absolute error of model) / (Total absolute error of Naive Forecasts)  
-
 ---
 ## R
----
 
-### [Credit Card Fraud](https://github.com/huuminhn/Credit_Fraud_R)
+
+### 1. [Credit Card Fraud](https://github.com/huuminhn/Credit_Fraud_R)
 **Purpose**:  
 Predict any credit fraudulent based on each transaction characteristics.
 This including but not limited to the information of the customers.
