@@ -13,6 +13,9 @@
 
 ### 1. [Amazon Purchase Prediction](https://github.com/huuminhn/Amazon_Purchase_Prediction)  
 This is a academic project with the aim of predicting the potential customers and their demographic characteristics.
+Below here are a part of visualization for EDA, please click the title for more details of the project:  
+
+<img src="amazon_appendix.png?raw=true"/>  
 
 ### 2. [Capstone Project: Forecasting Defendant Failure to Appear](https://github.com/huuminhn/Capstone_Project)  
 This is a team project that research on Failure to Appear rate of defendants and time to disposition of a case in a hearing court.  
