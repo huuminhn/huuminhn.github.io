@@ -12,7 +12,7 @@
 
 
 ### 1. [Amazon Purchase Prediction](https://github.com/huuminhn/Amazon_Purchase_Prediction)  
-This is a academic project with the aim of predicting the potential customers and their demographic characteristics.
+This is a academic project with the aim of predicting the potential customers and their demographic characteristics.  
 **Key Findings**: KNN is the optimal model with 94% accuracy and 58% recall. Also, we found that *the demographic of potential buyers are new customers, who last visited the website within 7 days and have a habit of visiting Amazon every 5-30 days.*  
 Below here are a part of visualization for EDA, please click the title for more details of the project:  
 
@@ -26,16 +26,15 @@ Below here are a part of visualization for EDA, please click the title for more 
 <img src="capstone.png?raw=true"/> 
 
 ### 3. [Netflix Movies Recommendation](https://github.com/huuminhn/Netflix_Visualization_Recommendation)  
-The main goal of this project is to transform a meaningful story through visualizations and build a recommendation sytstem for users based on
+This is a personal project aimming to transform a meaningful story through visualizations and build a recommendation sytstem for users based on
 the similarity of the movies preferences (contet-based). *Please visit my GitHub for the outcome of the recommendation system.*    
 **EDA and Storytelling via Visualization:**  
 <img src="Netflix_Charts.jpg?raw=true"/>  
 
 
 ### 4. [Airline Demand Forecast](https://github.com/huuminhn/Airline_Demand_Forecast)  
-**Purpose of this project is Prediction:**  
-Apply booking pattern estimated from training data into validation data.      
-Compute final demand forecasts for 7 departure dates and days.  
+This is a team project that aim to forecast the demand of airlines in Korea within the next 7 days using Time Series.  
+Please visit my Github for the detailed report.  
 
 ---
 ## R
@@ -57,6 +56,12 @@ This including but not limited to the information of the customers.
 The confusion matrix of both models were similar.  
 Decision Tree perform *slightly better* than Logistic Regression Model, at 99.906% and 99.9% respectively.  
 However, this is an *insignificant* difference between the two.
+
+### 2. [Linear and Interger Programming](https://github.com/huuminhn/Linear_and_NonLinear_Programming)  
+<img src="Linear_resize.jpg?raw=true"/>  
+
+This is a team project where we solved the Network Optimization (shortest path, maximum flow, and minimum cost) for an African Aiding Program.  
+More details and findings can be found in my Github page.  
 
 ---
 
