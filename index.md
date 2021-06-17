@@ -45,17 +45,10 @@ Please visit my Github for the detailed report.
 Predict any credit fraudulent based on each transaction characteristics.
 This including but not limited to the information of the customers.
 
-**Model Building**:   
-*Logistic Regression*: Variable selection using backward method. The ROC curve can be illustrated as:    
-<img src="Rplot_ROC.png?raw=true"/>
-
-*Decision Tree*: The tree model can be illustrated as:  
-<img src="Rplot_Tree.png?raw=true"/>
-
-**Key Findings**:  
-The confusion matrix of both models were similar.  
+**Key Findings**:    
 Decision Tree perform *slightly better* than Logistic Regression Model, at 99.906% and 99.9% respectively.  
-However, this is an *insignificant* difference between the two.
+However, this is an *insignificant* difference between the two.  
+Here are two 
 
 ### 2. [Linear and Interger Programming](https://github.com/huuminhn/Linear_and_NonLinear_Programming)  
 <img src="Linear_resize.jpg?raw=true"/>  
