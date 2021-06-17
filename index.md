@@ -13,12 +13,14 @@
 
 ### 1. [Amazon Purchase Prediction](https://github.com/huuminhn/Amazon_Purchase_Prediction)  
 This is a academic project with the aim of predicting the potential customers and their demographic characteristics.
+**Key Findings**: KNN is the optimal model with 94% accuracy and 58% recall. Also, we found that *the demographic of potential buyers are new customers, who last visited the website within 7 days and have a habit of visiting Amazon every 5-30 days.*  
 Below here are a part of visualization for EDA, please click the title for more details of the project:  
 
 <img src="amazon_appendix.png?raw=true"/>  
 
 ### 2. [Capstone Project: Forecasting Defendant Failure to Appear](https://github.com/huuminhn/Capstone_Project)  
 This is a team project that research on Failure to Appear rate of defendants and time to disposition of a case in a hearing court.  
+**Key Finding**: Neutral Network is the optimal model wuth 68% Accuracy and 64% Recall.  
 Below here are a part of visualization for EDA, please click the title for more details of the project:  
 
 <img src="capstone.png?raw=true"/> 
