@@ -19,6 +19,9 @@ Below here are a part of visualization for EDA, please click the title for more 
 
 ### 2. [Capstone Project: Forecasting Defendant Failure to Appear](https://github.com/huuminhn/Capstone_Project)  
 This is a team project that research on Failure to Appear rate of defendants and time to disposition of a case in a hearing court.  
+Below here are a part of visualization for EDA, please click the title for more details of the project:  
+
+<img src="capstone.png?raw=true"/> 
 
 ### 3. [Netflix Movies Recommendation](https://github.com/huuminhn/Netflix_Visualization_Recommendation)  
 The main goal of this project is to transform a meaningful story through visualizations and build a recommendation sytstem for users based on
