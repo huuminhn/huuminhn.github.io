@@ -3,7 +3,7 @@
 ---
 ## Tableau Visualization: 
 
-[COVID-19 Vaccination Global Tracker](https://public.tableau.com/app/profile/minh.nguyen1290/viz/WoldVaccine/Dashboard1)
+### [COVID-19 Vaccination Global Tracker](https://public.tableau.com/app/profile/minh.nguyen1290/viz/WoldVaccine/Dashboard1)
 
 <img src="Dashboard_Vaccines.png?raw=true"/>
 
