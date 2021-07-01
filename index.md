@@ -3,11 +3,24 @@
 ---
 ## Tableau Visualization: 
 
-[Video Game Production and Consumption: Japan vs. North America](https://public.tableau.com/profile/minh.nguyen1290#!/vizhome/Video_Game_Sales_16081465148140/Dashboard1)
+[COVID-19 Vaccination Global Tracker](https://public.tableau.com/app/profile/minh.nguyen1290/viz/WoldVaccine/Dashboard1)
 
-<img src="VideoGame_crop.png?raw=true"/>
+<img src="Dashboard_Vaccines.png?raw=true"/>
 
 ---
+
+## SQL Database:
+
+### [Database Design: A Flower Shop Project](https://github.com/huuminhn/SQL_Data_Base_Design_Flower_Shop)
+**Description**: This is a team project that design a database for a local flower store to optimize the business operation. The process involve data entry, ETL and applying queries as demanded. The data has to be inputted manually by the team members, along with 12 queries matching with business demands.  
+The ER diagram of the flower shop illustrated through **MySQL Workbench**:  
+<img src="Flower_ER.png?raw=true"/>
+A visulaization made in Tableau:  
+<img src="flowershop.png?raw=true"/>
+
+---
+
+
 ## Python
 
 
@@ -58,11 +71,6 @@ More details and findings can be found in my Github page.
 
 ---
 
-## SQL Database:
 
-### [Database Design: A Flower Shop Project](https://github.com/huuminhn/SQL_Data_Base_Design_Flower_Shop)
-**Description**: This is a team project that design a database for a local flower store to optimize the business operation. The process involve data entry, ETL and applying queries as demanded. The data has to be inputted manually by the team members, then create 12 SQL queries to match with the demand of the flower botique owners, and they can be found in my github page, along with a bigger version of the ER diagram below.  
-The ER diagram of the flower shop illustrated through **MySQL Workbench**:  
-<img src="Flower_ER.png?raw=true"/>
 <p style="font-size:11px">
 <!-- Remove above link if you don't want to attibute -->
