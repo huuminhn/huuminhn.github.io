@@ -17,8 +17,8 @@
 **Description**: This is a team project that design a database for a local flower store to optimize the business operation. The process involve data entry, ETL and applying queries as demanded. The data has to be inputted manually by the team members, along with 12 queries matching with business demands.  
 The ER diagram of the flower shop illustrated through **MySQL Workbench**:  
 <img src="Flower_ER.png?raw=true"/>
-A visulaization made in Tableau:  
-<img src="flowershop.png?raw=true"/>
+<!-- A visulaization made in Tableau:  
+<img src="flowershop.png?raw=true"/> -->
 
 ---
 
