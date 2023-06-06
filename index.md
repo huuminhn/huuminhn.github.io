@@ -1,12 +1,12 @@
 # Portfolio
 
 ---
-## Tableau Visualization: 
+## Highlighted Dashboard Example from Work: 
 
-### [COVID-19 Vaccination Global Tracker](https://public.tableau.com/app/profile/minh.nguyen1290/viz/WoldVaccine/Dashboard1)
+### [Tableau Public Profile](https://public.tableau.com/app/profile/minh.nguyen1290)
 
 <img src="Dashboard_Vaccines.png?raw=true"/>
-
+#### Note: The numbers are cencored to protect data privacy. 
 ---
 
 ## SQL Database:
