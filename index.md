@@ -5,7 +5,7 @@
 
 ### [Tableau Public Profile](https://public.tableau.com/app/profile/minh.nguyen1290)
 
-<img src="Dashboard_Vaccines.png?raw=true"/>
+<img src="Category.png?raw=true"/>
 #### Note: The numbers are cencored to protect data privacy. 
 ---
 
